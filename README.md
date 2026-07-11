@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALbaghdadi
+- 👋 Hi, I’m @Alchnani
 - 👀 I’m interested in AI , Arduino and Electronics
 - 🌱 I’m currently learning Deep leaening
 - 💞️ I’m looking to collaborate on AI
